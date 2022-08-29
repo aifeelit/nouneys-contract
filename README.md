@@ -6,6 +6,7 @@ The project comes with a sample contract, a test for that contract, a sample scr
 
 Try running some of the following tasks:
 
+
 ```shell
 npx hardhat accounts
 npx hardhat compile
@@ -24,6 +25,7 @@ npx prettier '**/*.{json,sol,md}' --write
 npx solhint 'contracts/**/*.sol'
 npx solhint 'contracts/**/*.sol' --fix
 ```
+
 
 # Etherscan verification
 
